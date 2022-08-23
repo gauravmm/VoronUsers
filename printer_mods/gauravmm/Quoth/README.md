@@ -15,7 +15,7 @@ Feel free to download the source files [here](https://a360.co/30niFPI).
 ## BOM
 
 | Description | Qty | Note |
-| ------------- | ------------- |
+| ---- | ---- | ---- |
 | M3x6 BHCS (or SHCS)| 4 | Holds the lid to the cartridge body |
 | 5x3x4 Heat-set inserts | (above) |
 | M3x(20--22) SHCS | 2 | Holds the clasp to the body, passed through the item. |
